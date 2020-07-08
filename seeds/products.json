@@ -1,0 +1,139 @@
+[
+  {
+    "product": {
+      "name": "Round Dining Set",
+      "description": "The 5-piece dining set is covered in this magnificent silver hue with detailed trimmed and dainty leg supports. Each dining chair is upholstered in elegant plush cushion.",
+      "price": "1,700.00",
+      "category_id": "categories[1].id"
+    },
+    "variant": [
+      {
+        "name": "Color",
+        "options": [
+          {
+            "description": "Brown",
+            "price": "0.00"
+          },
+          {
+            "description": "Slate",
+            "price": "1,800.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Velvet Upholstered Bed",
+      "description": "Crafted from solid rubberwood, this piece features a low-profile, streamlined design that works well in any contemporary setting.",
+      "category_id": "categories[2].id"
+    },
+    "variant": [
+      {
+        "name": "Color",
+        "options": [
+          {
+            "description": "Blue",
+            "price": "0.00"
+          },
+          {
+            "description": "Sand",
+            "price": "1,250.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Leather Platform Bed",
+      "description": "Renovate your bedroom decor with this stunning Upholstered Platform Bed. The base creates stability and sturdiness while the widened sides add to the modern appearance.",
+      "price": "1,300.00",
+      "category_id": "categories[2].id"
+    },
+    "variant": [
+      {
+        "name": "Color",
+        "options": [
+          {
+            "description": "Brown",
+            "price": "0.00"
+          },
+          {
+            "description": "Black",
+            "price": "1,400.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Industrial Dining Set",
+      "description": "This is a quality industrial table set. Metal base made from sturdy iron, the tabletop is made of high-quality MDF.",
+      "price": "2,600.00",
+      "category_id": "categories[1].id"
+    },
+    "variant": [
+      {
+        "name": "Color",
+        "options": [
+          {
+            "description": "Brown",
+            "price": "0.00"
+          },
+          {
+            "description": "Black",
+            "price": "2,700.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Leather Square Arm Sofa",
+      "description": "Crafted from solid wood, this leather sofa stands atop thin legs and features a track-arm design wrapped in leather for a textured appearance.",
+      "price": "1,500.00",
+      "category_id": "categories[0].id"
+    },
+    "variant": [
+      {
+        "name": "Color",
+        "options": [
+          {
+            "description": "Chestnut",
+            "price": "0.00"
+          },
+          {
+            "description": "Light Grey",
+            "price": "1,700.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Velvet Round Arm Loveseat",
+      "description": "With its elegantly curved silhouette and luxurious velvet upholstery, this sofa is eye-catching from all angles.",
+      "price": "950.00",
+      "category_id": "categories[0].id"
+    },
+    "variant": [
+      {
+        "name": "Color",
+        "options": [
+          {
+            "description": "Beige",
+            "price": "0.00"
+          },
+          {
+            "description": "Yellow",
+            "price": "1,100.00"
+          }
+        ]
+      }
+    ]
+  }
+]

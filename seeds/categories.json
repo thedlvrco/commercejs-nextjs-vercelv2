@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "bedroom",
+    "name": "Bedroom"
+  },
+  {
+    "slug": "dining-room",
+    "name": "Dining Room"
+  },
+  {
+    "slug": "living-room",
+    "name": "Living Room"
+  }
+]
